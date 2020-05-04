@@ -14,7 +14,7 @@ The command_center is as follows.
 
 
 
-##Set up:
+## Set up:
 We need to set up pip and pyqt5. Qt5-designer is optional and only needed if you want to change the GUI 
 
 ### Linux: 

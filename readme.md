@@ -1,5 +1,7 @@
 # Ready4Takeaway
+
 ##Description
+
 Displays the dishes which are ready for take-away for customers of restaurants.
 The program starts two applications: the command_center and an GUI for customers.
 Recommendation: the User-GUI should be displayed on a TV (>=43 inch), which is connected to a main notebook. The command center should be used on the main notebook to change the list.

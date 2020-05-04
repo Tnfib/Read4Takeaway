@@ -1,6 +1,6 @@
 # Ready4Takeaway
 
-##Description
+## Description
 
 Displays the dishes which are ready for take-away for customers of restaurants.
 The program starts two applications: the command_center and an GUI for customers.

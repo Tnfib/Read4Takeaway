@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Namis_Counter
+Exec=bash -c "python $(dirname $(readlink -f %k))/main.py"
+Icon=/home/tam/Desktop/Namis/ressources/logo.png
+Type=Application
+Terminal=false
+Categories=Office;
+MimeType=text/plain
+Name[en_US]=Starte Namis Counter
